@@ -27,8 +27,8 @@ I'm trying to publish better articles, but that's all for now. [researchgate](ht
 - [一种新型自动化干燥机](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2018&filename=CN207422846U&uniplatform=NZKPT&v=3wurLUydCZUsWwtBUkfKFiCbFk1x8-GWyaGPmqFwUMrAJQRmBQ8b9_Fc8KIU4vmD)
 
 
-## Summary
-Here are some of my notes, hopefully this will make it easier for me to find some key stuff.
+## Summarize
+Here are some of my notes, hopefully this will make it easier for me to find some key stuff. [summarize]https://github.com/yangbinchao/summarize
 
 
 <!---
