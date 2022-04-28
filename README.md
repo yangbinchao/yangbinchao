@@ -7,18 +7,15 @@
 ## Blog & Web
 I have a blog to memorize something. [my csdn blog](https://blog.csdn.net/heroybc?type=blog)
 
-I have a website but I haven't had time to perfect it. [my web aidata](www.aidata.site)
+I have a website but I haven't had time to perfect it. [my web aidata](https://www.aidata.site/)
 
 ## Paper 论文
-I'm trying to publish better articles, but that's all for now. [researchgate 研究门](https://www.researchgate.net/profile/Binchao-Yang)
+I'm trying to publish better articles, but that's all for now. [researchgate](https://www.researchgate.net/profile/Binchao-Yang)
 
-[SAM-Net: Semantic probabilistic and Attention Mechanisms of dynamic objects for self-supervised depth and camera pose estimation in visual odometry applications](https://www.researchgate.net/publication/356753990_SAM-Net_Semantic_probabilistic_and_Attention_Mechanisms_of_dynamic_objects_for_self-supervised_depth_and_camera_pose_estimation_in_visual_odometry_applications)
-
-[Visual SLAM of Unmanned Aerial Vehicles: A Survey](https://www.researchgate.net/publication/358432831_Visual_SLAM_of_Unmanned_Aerial_Vehicles_A_Survey)
-
-[道路环境下动态特征视觉里程计研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSGG20210728001&uniplatform=NZKPT&v=3Qinehu7XHK-nmzDYb18B2Ipv82blyuRTQ4ptYiX6FyMVWtCwa0Bej2_AWsAeFrE)
-
-[基于物联网轮胎花纹深度智能检测系统设计与实现](http://qikan.cqvip.com/Qikan/Article/Detail?id=675545941&from=Qikan_Search_Index)
+- [SAM-Net: Semantic probabilistic and Attention Mechanisms of dynamic objects for self-supervised depth and camera pose estimation in visual odometry applications](https://www.researchgate.net/publication/356753990_SAM-Net_Semantic_probabilistic_and_Attention_Mechanisms_of_dynamic_objects_for_self-supervised_depth_and_camera_pose_estimation_in_visual_odometry_applications)
+- [Visual SLAM of Unmanned Aerial Vehicles: A Survey](https://www.researchgate.net/publication/358432831_Visual_SLAM_of_Unmanned_Aerial_Vehicles_A_Survey)
+- [道路环境下动态特征视觉里程计研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=JSGG20210728001&uniplatform=NZKPT&v=3Qinehu7XHK-nmzDYb18B2Ipv82blyuRTQ4ptYiX6FyMVWtCwa0Bej2_AWsAeFrE)
+- [基于物联网轮胎花纹深度智能检测系统设计与实现](http://qikan.cqvip.com/Qikan/Article/Detail?id=675545941&from=Qikan_Search_Index)
 
 
 ## Patent 专利
