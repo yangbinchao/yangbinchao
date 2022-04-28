@@ -28,7 +28,7 @@ I'm trying to publish better articles, but that's all for now. [researchgate](ht
 
 
 ## Summarize
-Here are some of my notes, hopefully this will make it easier for me to find some key stuff. [summarize]https://github.com/yangbinchao/summarize
+Here are some of my notes, hopefully this will make it easier for me to find some key stuff. [summarize](https://github.com/yangbinchao/summarize)
 
 
 <!---
