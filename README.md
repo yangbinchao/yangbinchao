@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HPC and DL model acceleration and deployment.
 - 📫 You can contact me by email: heroybc@qq.com
 
-# Brief Summary 我的简要总结
+## Here is my brief summary
 
 ## Blog 博客
 [my csdn blog](https://blog.csdn.net/heroybc?type=blog)
