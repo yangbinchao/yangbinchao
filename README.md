@@ -5,9 +5,9 @@
 - ⚠️ Here is my brief summary
 
 ## Blog & Web
-I have a blog to memorize something. [my csdn blog](https://blog.csdn.net/heroybc?type=blog)
+I've a blog to memorize something. [my csdn blog](https://blog.csdn.net/heroybc?type=blog)
 
-I have a website but I haven't had time to perfect it. [my web aidata](https://www.aidata.site/)
+I've a website but I haven't had time to perfect it. [my web aidata](https://www.aidata.site/)
 
 ## Paper
 I'm trying to publish better articles, but that's all for now. [researchgate](https://www.researchgate.net/profile/Binchao-Yang)
@@ -27,26 +27,9 @@ I'm trying to publish better articles, but that's all for now. [researchgate](ht
 - [一种新型自动化干燥机](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2018&filename=CN207422846U&uniplatform=NZKPT&v=3wurLUydCZUsWwtBUkfKFiCbFk1x8-GWyaGPmqFwUMrAJQRmBQ8b9_Fc8KIU4vmD)
 
 
-## Deep learning 深度学习
-[LSTM的公式推导详解](https://blog.csdn.net/u010754290/article/details/47167979)
+## Summary
+Here are some of my notes, hopefully this will make it easier for me to find some key stuff.
 
-## SLAM 同步定位与建图
-[2020研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research
-
-[2019研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2019.md
-
-[2018研究论文]https://github.com/YiChenCityU/Recent_SLAM_Research/blob/master/SLAM_Research_2018.md
-
-[SLAM公开数据集下载链接]https://www.sohu.com/a/219232053_715754
-
-
-
-## ROS 机器人操作系统
-[deepin15.11安装ROSMelodic]https://blog.csdn.net/lewif/article/details/101151749
-
-## Other 其他
-V2ray
-[Linux配置v2详细教程]https://mahongfei.com/1776.html
 
 <!---
 yangbinchao/yangbinchao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
