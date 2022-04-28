@@ -2,8 +2,7 @@
 - 👀 I’m interested in Deep Learning with SLAM and HPC.
 - 🌱 I’m currently learning HPC and DL model acceleration and deployment.
 - 📫 You can contact me by email: heroybc@qq.com
-
-## Here is my brief summary
+- ⚠️⚠️ Here is my brief summary
 
 ## Blog 博客
 [my csdn blog](https://blog.csdn.net/heroybc?type=blog)
