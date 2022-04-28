@@ -6,7 +6,8 @@
 
 ## Blog & Web
 [my csdn blog](https://blog.csdn.net/heroybc?type=blog)
-[my web aidata](www.aidata.site)I have a website but I haven't had time to perfect it
+
+I have a website but I haven't had time to perfect it. [my web aidata](www.aidata.site)
 
 ## Paper 论文
 [researchgate 研究门](https://www.researchgate.net/profile/Binchao-Yang)
